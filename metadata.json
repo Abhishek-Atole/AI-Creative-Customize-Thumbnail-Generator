@@ -1,0 +1,5 @@
+{
+  "name": "AI Creative Suite",
+  "description": "A powerful creative toolkit for generating and editing stunning banners. Features high-quality image generation with Imagen 4, a 'Deep Research' mode powered by Gemini Pro with Google Search, and intuitive text-based image editing.",
+  "requestFramePermissions": []
+}
